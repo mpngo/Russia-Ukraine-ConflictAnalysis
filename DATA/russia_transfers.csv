@@ -1,0 +1,11 @@
+Recipient,Supplier,Designation,Description,Weapon Category,Sub-Weapon Category,Order Year,Number Ordered,Delivery Years
+Russia,Turkiye,Alican Deval,cargo ship,Ships,,2015,1,2015
+Russia,Turkiye,Dadali,cargo ship,Ships,,2015,1,2015
+Russia,unknown supplier(s),Agafonov,cargo ship,Ships,,2015,1 ?,2015
+Russia,Iran,Mohajer-6,armed UAV,Aircraft,,2022,20 ?,2022
+Russia,China,ship engine 2501-4000,ship engine,Engines,,2015,28,0
+Russia,United States,vehicle engine 301-400,vehicle engine,Engines,,2018 ?,,0
+Russia,Iran,Shahed-136,SSM,Missiles,,2022,,0
+Russia,unknown supplier(s),Mugin-5,UAV,Aircraft,,2022 ?,1 ?,2023
+Russia,China,Tiger AV,APV,Armoured vehicles,,2022,7 ?,2023
+Russia,North Korea,Hwasong-11,SSM,Missiles,,2023 ?,,0
